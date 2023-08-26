@@ -45,7 +45,6 @@ class CurrentAccount extends Account
   }
 }
 
-
 void main()
 {
   SavingsAccount customer1 = SavingsAccount(2874875, 40000.0, 0.10);
